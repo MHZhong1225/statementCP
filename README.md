@@ -81,4 +81,3 @@ Outputs are written to:
 - `reports/ihdp_experiment_report.md`
 - `reports/acic2016_experiment_report.md`
 - `reports/mimic_early_icu_experiment_report.md`
-# statementCP
